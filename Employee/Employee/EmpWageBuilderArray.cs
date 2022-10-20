@@ -64,6 +64,7 @@ namespace Employee
                 }
                 totalEmpHrs += empHrs;
                 Console.WriteLine("Day# : " + totalWorkingDays + "Emp Hrs : " + empHrs);
+                Console.WriteLine("Day# : " + totalWorkingDays + "Emp Hrs : " + empHrs);
 
             }
 
